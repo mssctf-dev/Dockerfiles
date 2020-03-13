@@ -7,7 +7,6 @@
     --max_memory=134217728 \
     --max_stack=134217728 \
     --max_process_number=-1 \
-    --max_output_size=1048576 \
     --log_path=/opt/compile/run.log \
     --error_path=/opt/compile/error.log \
     --args="-DONLINE_JUDGE" \
